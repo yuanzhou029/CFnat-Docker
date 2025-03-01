@@ -35,7 +35,7 @@ CFnat 相关项目仅供教育、研究和安全测试目的而设计和开发�
 - 官方仓库拉取
 
 ```shell
-docker run -d --name mycfnat --restart always -p 1234:1234 cmliu/cfnat:latest
+docker run -d --name mycfnat --restart always -p 1234:1234 yz029/cfnat:latest
 ```
 
 - 镜像仓库拉取
